@@ -8,23 +8,28 @@ Anaconda - Python 3.7
 ## Algorithm:
 ### Step1:
 <br>
-
+Import the necessary packages matplolib and cv2.
 
 ### Step2:
 <br>
+Read the image as grayscale and reduce the noise using cv2.GaussianBlur.
 
 ### Step3:
 <br>
+Perform various methods of edge detection Sobel edge detector,Laplacian edge detector,Canny edge detector.
 
 ### Step4:
 <br>
+Run the program.
 
 ### Step5:
 <br>
-
+Execute the output.
  
 ## Program:
 
+#### Developed by : Sarankumar J
+#### Register Number : 212221230087
 ``` Python
 # Import the packages
 import cv2
